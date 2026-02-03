@@ -42,21 +42,31 @@ Ill-conditioned cases (e.g. insufficient data) are explicitly flagged.
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 
+```markdown
+## Run locally
+
+```bash
+pip install -r requirements.txt
+streamlit run streamlit_app.py
+```
 
 ## Repository structure
+
+```
 spi-lab/
 ├── assets/            # demo.gif and UI assets
 ├── data/              # CAMELS-IND attributes & forcings (not redistributed)
 ├── utils/             # SPI computation utilities
 ├── streamlit_app.py   # main Streamlit app
 └── README.md
-
+```
 
 ## Data usage & licensing
 
 This repository **does not redistribute CAMELS-IND data**.
 
 The CAMELS-IND dataset is governed by its original license and terms of use. This repository does not redistribute the dataset and provides analysis code only. Users are responsible for obtaining the data from official sources and complying with the dataset’s licensing conditions.
+
 This repository provides **code only**.
 
 ## Code license
@@ -68,3 +78,4 @@ MIT License — applies **only to the source code** in this repository.
 If you use this tool in academic work, please cite the CAMELS-IND dataset:
 
 > https://doi.org/10.5194/essd-17-461-2025
+```
