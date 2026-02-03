@@ -43,7 +43,7 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 
 
-
+## Repository structure
 spi-lab/
 ├── assets/            # demo.gif and UI assets
 ├── data/              # CAMELS-IND attributes & forcings (not redistributed)
@@ -52,19 +52,21 @@ spi-lab/
 └── README.md
 
 
-Data usage & licensing
-This repository does not redistribute CAMELS-IND data.
+## Data usage & licensing
 
-The CAMELS-IND dataset is subject to its original licensing and citation requirements.
+This repository **does not redistribute CAMELS-IND data**.
+
+The CAMELS-IND dataset is subject to its original licensing and citation requirements.  
 Users must obtain the dataset from official CAMELS-IND sources and comply with those terms.
 
-This repository provides code only.
+This repository provides **code only**.
 
+## Code license
 
-Code license
-MIT License — applies only to the source code in this repository.
+MIT License — applies **only to the source code** in this repository.
 
-Citation
-If you use this tool in academic work, please cite appropriately.
+## Citation
 
-The original CAMELS-IND dataset publication : https://doi.org/10.5194/essd-17-461-2025
+If you use this tool in academic work, please cite the CAMELS-IND dataset:
+
+> https://doi.org/10.5194/essd-17-461-2025
