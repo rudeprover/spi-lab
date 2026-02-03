@@ -56,9 +56,7 @@ spi-lab/
 
 This repository **does not redistribute CAMELS-IND data**.
 
-The CAMELS-IND dataset is subject to its original licensing and citation requirements.  
-Users must obtain the dataset from official CAMELS-IND sources and comply with those terms.
-
+The CAMELS-IND dataset is governed by its original license and terms of use. This repository does not redistribute the dataset and provides analysis code only. Users are responsible for obtaining the data from official sources and complying with the dataset’s licensing conditions.
 This repository provides **code only**.
 
 ## Code license
